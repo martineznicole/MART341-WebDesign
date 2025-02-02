@@ -11,4 +11,5 @@ The course is going swimmingly so far. I *hope* I am on the right track and **un
 
 [Post Secret Website](https://postsecret.com/)
 
-![Cutest Picture of a Sloth!](https://en.wikipedia.org/wiki/Sloth#/media/File:Choloepus_hoffmanni_(Puerto_Viejo,_CR)_crop.jpg)
+![Sloth](https://github.com/user-attachments/assets/520ccfbc-26bc-4bb7-b5a4-236e7749f1ca)
+
