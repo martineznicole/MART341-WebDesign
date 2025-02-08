@@ -1,3 +1,3 @@
 - Web browsers function by using web languages to transalte intructions and activities into a variety of content!It's all about the different forms of "web languages" and how they are used.
 - Document Object Model connects styling into structured elements. It is the bridge! It powers web pages by making that connection of style to structure.
-- The four essential elements every HTML page needs is <!DOCTYPE>, <root>, <head>, and <body>.
+- The four essential elements every HTML page needs is !DOCTYPE, root, head, and body.
