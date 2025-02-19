@@ -1,0 +1,1 @@
+I enjoy a good reflection piece. Almost like a stream of consciousness. An extracurricular activity I truly enjoyed was a jewerly metalsmithing class that I took last year. It was so interesting to learn the mechanics and techniques to create a piece a jewerly. It's even more interesting and exciting that I can wear something that I made myself!
