@@ -1,0 +1,3 @@
+I am most proud of making a second page and linking each page with eachother. How cool that I was able to do that! The web design world is my oyster and I cannot wait to explore more! 
+
+I think things are going well so far. It takes me a bit to catch on and I have to go back a bit to remember simple things. For example, I wanted to make some of my words bold and I could NOT remember how to do that. I need to make myseld a quick sheet to reference past elements! I still feel like I am getting caught up on adding images. I am able to use images that I find publicly on some websites (like wikipedia), but I cannot figure out how to upload my own images. I will be reaching out to you to figure that out!
