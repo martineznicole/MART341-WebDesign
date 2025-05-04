@@ -1,5 +1,4 @@
-/* Experimenting and see what happens */
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -31,8 +30,8 @@ nav ul li a {
 
 /* Dark gray banner styling */
 .banner {
-    height: 200px;
-    background-color: #333;
+    height: 150px;
+    background-color: #222;
     color: white;
     display: flex;
     align-items: center;
@@ -42,12 +41,6 @@ nav ul li a {
     letter-spacing: 0.2em;
 }
 
-/* Banner image styling */
-.banner-image {
-    width: 100%;
-    height: auto;
-    display: block;
-}
 
 /* one-column block styling */
 .one-column-block {
