@@ -1,23 +1,11 @@
-1. How did the peer review go for the discussion? Was it easier to remember to post and reply with this format? Can I help out with anything specific?:
+How did the peer review go for the discussion? Was it easier to remember to post and reply with this format? Can I help out with anything specific?:
 
 I think it was a bit more helpful. I did not mind the previous set up where we posted and then reviewed. Whatever works best for the group!
 
-2. README List:
+README List:
 
-I will be working on the index.html for my main page for my doable.
+I will be working on creating a new page for my instructables page!
 
-3. Required Techniques (Must Have):
+Select at Least Three Additional Techniques:
 
-            Create a page with an external CSS style sheet
-                        Use at least 1 class selector
-                        Use at least 1 ID selector
-
-4. Select at Least Three Additional Techniques:
-
-                        Different background colors
-                        Different font colors
-                        Positioning
-                        Opacity
-                        Text Alignment
-                        Borders
-                        And more (feel free to experiment!)
+I experimented with background color. I liked combining darker and brighter colors! I wanted to keep it simple with one question and build off of that. Positioning of the content and borders.
