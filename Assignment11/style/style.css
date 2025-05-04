@@ -1,0 +1,83 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Bitstream Vera Serif Bold';
+    src: url('https://mdn.github.io/shared-assets/fonts/VeraSeBd.ttf') ;
+    font-weight: bold;
+    font-style: bold;
+}
+
+
+body {
+    font-family: 'Bitstream Vera Serif Bold', serif; /* Looks good to go */
+    text-shadow: 0.55px 0.55px 0 #000; /* Creates a thin shadow outline */
+    font-size: 2.00em; /* Big bold letters so you know what you are reading */
+
+}
+
+/* Dark gray banner styling */
+.banner {
+    height: 200px;
+    background-color: #055;
+    color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4.5em;
+    font-family: papyrus;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+/* Hero image styling */
+.hero-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Two-column block styling */
+.two-column-block {
+    display: flex;
+}
+
+.two-column-block div {
+    flex: 2;
+    padding: 90px;
+    text-align: center;
+}
+
+.left-section {
+    background-color: #51cf9d;
+}
+
+.right-section {
+    background-color: #51c2cf;
+}
+
+/* Styling for history information */
+history {
+    font-size: 1.5em;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+#history-info {
+    font-size: 1em;
+    color: #555;
+    margin-top: 5px;
+}
+
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
