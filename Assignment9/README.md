@@ -16,3 +16,8 @@
 
 ## How Does It Work?
 ## Instructions:
+- Cut your flowers! Make sure they are flat because they will press better
+- place on a piece of wood, cardboard, and paper combination. Items must be in that order.
+- Place the other set of wood, cardboard, paper on  top. Make sure it is even and everythin aligned.
+- Take each clamp and clamp down on each side. Wait 5-7 days.
+- YOU DID IT! take off the clamps and see your creations! Next you can use mold and epoxy to create jewerly or other trinkets!
