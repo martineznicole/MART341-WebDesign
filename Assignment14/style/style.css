@@ -9,23 +9,23 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 2px;
-  background: grey;
+  background: rgb(48, 46, 46);
 }
 
 .item {
-  height: 100vh;
+  height: 70vh;
 }
 
 .item-a {
-  background: tomato;
+  background: rgba(71, 145, 255, 0.616);
 }
 
 .item-b {
-  background: darkseagreen;
+  background: #8fbc8fb7;
 }
 
 .item-c {
-  background: cornflowerblue;
+  background: rgb(140, 136, 199);
 }
 * {
     margin: 10;
@@ -44,7 +44,7 @@ body {
     display: flex;
       justify-content: center;
       align-items: center;
-      background-color: #f0f0f0;
+      background-color: #f0f0f08f;
 }
 
 
@@ -57,7 +57,7 @@ body {
 /* Navigation styling */
 /* Base Navigation Styling */
 header {
-    background-color: #ffffff;
+    background-color: #14ccbd65;
     font-family: 'Arial', serif;
     font-size: 15px;
     text-transform: uppercase;
@@ -75,17 +75,17 @@ header {
     margin: 0;
     min-width: 8em;
     text-align: left;
-    background-color: #ffffff;
-    padding: 0.5em 110em;
+    background-color: #d7dbdb;
+    padding: 0.05em 110em;
 }
 
 .menu-item a {
-    color: #4e4e4e;
+    color: #312f2ff5;
     text-decoration: none;
 }
 
 h1 {
-    font-family: 'Arial', serif; /* Falls back to sans-serif if font fails to load */
+    font-family: 'Arial', serif; 
     letter-spacing: 2px;
 }
 
@@ -93,12 +93,12 @@ h1 {
 .banner {
     height: 200px;
     background-color: rgb(132, 170, 181);
-    color: white;
+    color: rgb(75, 177, 190);
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 3.6em;
-    font-family: 'Kitten', sans-serif;
+    font-size: 2.6em;
+    font-family: 'Arial', serif;
     text-align: center;
     letter-spacing: 0.2em;
     text-shadow:
@@ -113,11 +113,5 @@ h1 {
 
 @media (max-width: 480px) {
 
-    .three-column-gallery div {
-        padding: 10px; /* Minimal padding */
-    }
-
-    .about-section {
-        padding: 10px; /* Adjust text padding */
-    }
+ 
 }
