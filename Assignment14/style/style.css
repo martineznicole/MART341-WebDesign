@@ -13,7 +13,7 @@ body {
 }
 
 .item {
-  height: 70vh;
+  height: 40vh;
 }
 
 .item-a {
@@ -50,8 +50,8 @@ body {
 
 body {
     font-family: 'Arial', serif; 
-    text-shadow: 0.50px 0.50px 0 #000; /* Creates a thin shadow outline */
-    font-size: 1.50em; /* Slightly increase font size to give a bolder effect */
+    text-shadow: 0.50px 0.50px 0 #000; 
+    font-size: 1.50em; 
 }
 
 /* Navigation styling */
